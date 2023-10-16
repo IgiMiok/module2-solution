@@ -154,7 +154,7 @@ h1 {
 
 
 @media (max-width: 767px) {
-  .col-ph-12-1, 
+  .col-ph-12, 
   {
     float: left;
   }
